@@ -1,5 +1,5 @@
-Hello, I'm Giridhar Nair, a Computer Science student at The University of Texas at Dallas, minoring in Mathematics. I enjoy full-stack development, with a focus on building well-crafted products from the ground up.
+Hello, I'm a Computer Science student at The University of Texas at Dallas, minoring in Mathematics. 
 
-Outside of software, I like to play basketball (LeBron > MJ) and listen to music (favorite artist is Drake).
+I enjoy full-stack development, with a focus on building well-crafted products from the ground up.
 
-Reach out at giridharrnair[at]gmail[dot]com!
+:briefcase: Connect with me on [LinkedIn](https://linkedin.com)
